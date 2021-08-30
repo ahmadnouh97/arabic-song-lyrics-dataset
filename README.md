@@ -1,7 +1,7 @@
 # arabic-song-lyrics-dataset
 Multi Dialect Arabic Song Lyrics Dataset
 
-Collected from [Habibi](http://ucrel-web.lancaster.ac.uk/habibi/) dataset and labeled manually by 2 emotions (Happy & Sad).
+Collected from [Habibi](http://ucrel-web.lancaster.ac.uk/habibi/) dataset and classified manually into two classes of emotions (Happy & Sad).
 
 **Note:**
 
